@@ -1,0 +1,11 @@
+! http://egeszsegkucko.reblog.hu/
+egeszsegkucko.reblog.hu##div.suggestions-hover.suggestions-slider
+
+! https://devopsakademia.com/
+devopsakademia.com###boost-notifications-wrapper
+
+! https://devopsakademia.com/
+devopsakademia.com###olark-wrapper
+
+! https://devopsakademia.hu/
+devopsakademia.hu###olark-wrapper
