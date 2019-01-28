@@ -9,3 +9,6 @@ devopsakademia.com###olark-wrapper
 
 ! Homepage: https://devopsakademia.hu/
 devopsakademia.hu###olark-wrapper
+
+! Homepage: https://pcforum.hu/
+###subscribepopuppanelalign
