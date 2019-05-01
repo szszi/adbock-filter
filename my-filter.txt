@@ -3,7 +3,6 @@ egeszsegkucko.reblog.hu##div.suggestions-hover.suggestions-slider
 
 ! Homepage: https://devopsakademia.com/
 devopsakademia.com###boost-notifications-wrapper
-devopsakademia.com##div.src-component-frame-Frame-desktop
 
 ! Homepage: https://devopsakademia.com/
 devopsakademia.com###olark-wrapper
