@@ -12,3 +12,10 @@ devopsakademia.hu###olark-wrapper
 
 ! Homepage: https://pcforum.hu/
 pcforum.hu###subscribepopuppanelalign
+
+||24.hu^$document
+||444.hu^$document
+||hvg.hu^$document
+||index.hu^$document
+||origo.hu^$document
+||telex.hu^$document
