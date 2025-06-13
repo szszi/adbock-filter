@@ -16,3 +16,5 @@ hvg.hu##html
 index.hu##html
 origo.hu##html
 telex.hu##html
+
+facebook.com##html
