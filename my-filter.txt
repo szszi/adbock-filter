@@ -1,6 +1,3 @@
-! Homepage: http://egeszsegkucko.reblog.hu/
-egeszsegkucko.reblog.hu##div.suggestions-hover.suggestions-slider
-
 ! Homepage: https://devopsakademia.com/
 devopsakademia.com###boost-notifications-wrapper
 
