@@ -18,3 +18,5 @@ origo.hu##html
 telex.hu##html
 
 facebook.com##html
+
+menetrendek.hu##.adobanner
