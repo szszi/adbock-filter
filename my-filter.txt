@@ -1,28 +1,15 @@
-! Homepage: https://devopsakademia.com/
-devopsakademia.com###boost-notifications-wrapper
-
-! Homepage: https://devopsakademia.com/
-devopsakademia.com###olark-wrapper
-
-! Homepage: https://devopsakademia.hu/
-devopsakademia.hu###olark-wrapper
-
-! Homepage: https://pcforum.hu/
-pcforum.hu###subscribepopuppanelalign
-
 ! 24.hu##html
 ! 444.hu##html
+! facebook.com##html
 ! hvg.hu##html
 ! index.hu##html
 origo.hu##html
 ! telex.hu##html
 
-! facebook.com##html
-facebook.com##div[data-visualcompletion="ignore-late-mutation"]
-
+devopsakademia.com###boost-notifications-wrapper
+devopsakademia.com###olark-wrapper
+devopsakademia.hu###olark-wrapper
 menetrendek.hu##.adobanner
-
-telex.hu##.modal--threat__container
-telex.hu##.tax-widget
-
 ops.bytedrift.com##span[x-show="popups.sponsorship"]
+pcforum.hu###subscribepopuppanelalign
+telex.hu##.tax-widget
