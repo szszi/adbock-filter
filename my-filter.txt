@@ -17,7 +17,8 @@ pcforum.hu###subscribepopuppanelalign
 origo.hu##html
 ! telex.hu##html
 
-facebook.com##html
+! facebook.com##html
+facebook.com##div[data-visualcompletion="ignore-late-mutation"]
 
 menetrendek.hu##.adobanner
 
