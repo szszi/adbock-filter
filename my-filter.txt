@@ -11,11 +11,11 @@ devopsakademia.hu###olark-wrapper
 pcforum.hu###subscribepopuppanelalign
 
 ! 24.hu##html
-444.hu##html
-hvg.hu##html
-index.hu##html
-! origo.hu##html
-telex.hu##html
+! 444.hu##html
+! hvg.hu##html
+! index.hu##html
+origo.hu##html
+! telex.hu##html
 
 facebook.com##html
 
