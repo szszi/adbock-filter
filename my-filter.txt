@@ -22,5 +22,6 @@ facebook.com##html
 menetrendek.hu##.adobanner
 
 telex.hu##.modal--threat__container
+telex.hu##.tax-widget
 
 ops.bytedrift.com##span[x-show="popups.sponsorship"]
