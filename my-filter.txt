@@ -1,10 +1,10 @@
-! 24.hu##html
-! 444.hu##html
+24.hu##html
+444.hu##html
 ! facebook.com##html
-! hvg.hu##html
-! index.hu##html
+hvg.hu##html
+index.hu##html
 origo.hu##html
-! telex.hu##html
+telex.hu##html
 
 devopsakademia.com###boost-notifications-wrapper
 devopsakademia.com###olark-wrapper
